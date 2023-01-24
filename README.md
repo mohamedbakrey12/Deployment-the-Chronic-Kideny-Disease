@@ -30,6 +30,14 @@ Where the `model_DT Train Score was obtained in the training is : 0.95625` and `
 These results are very good and good as it is for the `DecisionTreeClassifier` 
 model and this is one of the best models that give accurate and effective solutions.
 
+### Confusion Matrix 
+![image](https://user-images.githubusercontent.com/66233001/214435426-9e092087-aed7-4cad-a170-5dd3704166b4.png)
+
+### ROC
+![image](https://user-images.githubusercontent.com/66233001/214435573-6e3f8120-47fd-4c07-8266-ade8cbd1f109.png)
+
+
+
 # Tools
  
  * Python as Language.
